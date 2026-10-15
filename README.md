@@ -6,8 +6,12 @@ R code and data for the analyses and figures of:
 
 > Haim, A. *et al.* (in preparation). *[Manuscript title]*. *[Journal]*.
 
-Author of the code: Almog Haim – MEDsLab, Bar-Ilan University, Israel
-(almog.haim1@live.biu.ac.il)
+Author of the code: Almog Haim* – Bar-Ilan University, Interuniversity Institute for Marine Sciences in Eilat
+                    Shahar Chaikin - Museo Nacional de Ciencias Naturales
+                    Re'em Neri - Bar-Ilan University
+                    Igal Berenshtein - University of Haifa
+                    Gal Eyal* - Bar-Ilan University, The University of Queensland: Saint Lucia, QLD, AU
+(almog.haim1@live.biu.ac.il & Gal.eyal1@biu.ac.il)
 
 ## Contents
 
