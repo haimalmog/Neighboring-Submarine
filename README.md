@@ -1,6 +1,6 @@
 # Near-bottom currents and fish communities in submarine canyons of the northern Gulf of Eilat/Aqaba
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23105556.svg)](https://doi.org/10.5281/zenodo.23105556)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23192724.svg)](https://doi.org/10.5281/zenodo.23192724)
 
 R code and data for the analyses and figures of:
 
